@@ -7,3 +7,7 @@ install-package jquery -projectname Study.JQuery.UI
 
 -- install jquery UI version 1.11.4
 Install-Package jQuery.UI.Combined -ProjectName Study.JQuery.UI
+
+
+
+Install-Package jQuery.UI.Themes.Redmond -ProjectName Study.JQuery.UI

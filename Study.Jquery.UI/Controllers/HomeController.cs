@@ -14,5 +14,14 @@ namespace Study.Jquery.UI.Controllers
         {
             return View();
         }
+
+
+
+        public ActionResult Hello()
+        {
+            return View();
+        }
+
 	}
+
 }
